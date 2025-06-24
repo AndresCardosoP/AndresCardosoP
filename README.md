@@ -107,14 +107,14 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescardosop&show_icons=true&locale=en&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescardosop&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrescardosop&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrescardosop&show_icons=true&locale=en&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=andrescardosop&show_icons=true&locale=en" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrescardosop&theme=tokyonight&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </p>
 
