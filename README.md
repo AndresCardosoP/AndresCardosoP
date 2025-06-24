@@ -115,6 +115,6 @@
 </p>
 
 <p align="center">
-  align="center"><img align="center" src="https://git-hub-streak-stats.vercel.app?user=AndresCardosoP&theme=dark" alt="AndresCardosoP" 
+  <img align="center" src="https://git-hub-streak-stats.vercel.app?user=AndresCardosoP&theme=dark" alt="AndresCardosoP" 
 </p>
 
