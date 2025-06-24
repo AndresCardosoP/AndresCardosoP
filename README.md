@@ -115,6 +115,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrescardosop&theme=tokyonight&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresCardosoP&theme=dark" alt="GitHub Streak"/>
 </p>
 
