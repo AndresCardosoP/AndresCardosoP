@@ -1,7 +1,6 @@
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?>
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo">
 <h1 align="center">Hi 👋, I'm Andres Cardoso</h1>
 <h3 align="center">Computer Science major at Ontario Tech University</h3>
-e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrescardosop&label=Profile%20views&color=0e75b6&style=flat" alt="andrescardosop" /> </p>
 
